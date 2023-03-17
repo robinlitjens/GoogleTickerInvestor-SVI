@@ -1,5 +1,5 @@
-#GoogleTickerFinanceInvestorSVI 
-Google Finance Investor SVI (FISVI)
+#GoogleTickerInvestorSVI 
+Google Investor SVI (ISVI)
 
 These files contain Google Ticker Search when searching for Finance/Investor and include our paper's tickers in the Compustat universe. The variable "FISVI" is the raw daily Google Ticker Search for Finance/Investing. The variable "FISVI_month" is the monthly Google Ticker Search for Finance/Investing from 2004 to the present to perform fixed scaling per prior research.
 
